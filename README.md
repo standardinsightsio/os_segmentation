@@ -39,10 +39,10 @@ Customer Segmentation:
 - Hitesh https://github.com/khiteshk
 - Victor https://github.com/victorthemtt
 - Avani https://github.com/Avani1297
-- Meghna https://github.com/Meghana430 https://www.linkedin.com/in/meghana-s-kanthadai-70abba18a
+- Meghana https://github.com/Meghana430 https://www.linkedin.com/in/meghana-s-kanthadai-70abba18a
 
 ## About - Hitesh
 ## About - Victor
 ## About - Avani
-## About - Meghna
+## About - Meghana
 ## About - Patric
