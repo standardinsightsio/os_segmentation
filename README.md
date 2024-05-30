@@ -34,14 +34,15 @@ Customer Segmentation:
 - Improve customer retention and acquisition.
 
 # Contributors 
-
-- Standard Insights, FL, USA
+- Standard Insights https://standardinsights.io
 - Hitesh https://github.com/khiteshk
 - Victor https://github.com/victorthemtt
 - Avani https://github.com/Avani1297
 - Meghana https://github.com/Meghana430 https://www.linkedin.com/in/meghana-s-kanthadai-70abba18a
+- Patrick  https://github.com/Patrick010115
 
-## About - Hitesh
+## About - Standard Insights
+- Standard Insights is a company that leverages AI for data analytics and marketing.
 ## About - Victor
 ## About - Avani
 ## About - Meghana
